@@ -21,5 +21,25 @@ The Fuel-For-Thought website helps college students at The University of Hawaii 
 
 ## Overview
 
+The application will use several technologies covered in ICS 314, including the following.
+
+- React for building interactive components such as meal listings, search filters, and review forms.
+
+- React Bootstrap for designing responsive page layouts, navigation, and meal cards.
+
+- PostgreSQL for storing user accounts, vendors, meals, reviews, and favorites, along with the relationships between them.
+
+- VS Code, ESLint, and GitHub for writing code, checking coding standards, collaborating on changes, and tracking milestone tasks.
+
+The application will also demonstrate several design concepts.
+
+- Related database tables that connect meals to vendors, reviews to their authors, and favorite meals to the users who saved them.
+
+- A public browse page where students can filter meals by price or dietary preference and compare nutrition information and distance.
+
+- Account registration and sign-in pages that give students access to posting, reviewing, and saving meals.
+
+- Role-based permissions that let visitors browse listings, signed-in students contribute, and administrators moderate posts.
+
 ## Mockup-Pages
 
