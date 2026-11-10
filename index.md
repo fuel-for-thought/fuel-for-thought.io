@@ -48,3 +48,5 @@ The application will also demonstrate several design concepts.
 <iframe src="./Mockups.pdf" title="Fuel for Thought website mockups" width="100%" height="650"></iframe>
 
 [Open the mockup PDF](./Mockups.pdf)
+
+The landing page introduces Fuel for Thought and gives students a place to get started, while the Goals page lets them save their weekly food budget, nutrition goals, dietary needs, and transportation options. The search page displays nearby restaurants, grocery stores, and campus dining options alongside a map so students can compare prices and distances. The Community Dashboard lets students share and rate food recommendations and filter posts for budget-friendly, high-protein, or low-calorie options.
