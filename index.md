@@ -8,9 +8,11 @@
 * [Mockup-Pages](#mockup-pages)
 
 ## Description
+
 The Fuel-For-Thought website helps college students at The University of Hawaii at Manoa find meals that fit their budget, dietary needs, fitness goals, and transportation options. Students can discover options from restaurants, grocery stores, and campus dining, then compare prices, nutrition information, and travel distance before deciding where to eat. Students who sign in with a UH email address can also share recommendations, rate meals, and save their favorite finds.
 
 ## Goals
+
 - Make affordable meals easier to find. Let students search within their budget and compare prices across restaurants, grocery stores, and campus dining options.
 
 - Help students find meals that fit their dietary needs. Let students filter by preferences and restrictions, such as vegan options, and view calories and ingredients when available.
@@ -42,10 +44,7 @@ The application will also demonstrate several design concepts.
 - Role-based permissions that let visitors browse listings, signed-in students contribute, and administrators moderate posts.
 
 ## Mockup-Pages
-<iframe
-  src="./Mockups.pdf"
-  title="Fuel for Thought website mockups"
-  width="100%"
-  height="650"
-  style="border: 1px solid #ddd;">
-</iframe>
+
+<iframe src="./Mockups.pdf" title="Fuel for Thought website mockups" width="100%" height="650"></iframe>
+
+[Open the mockup PDF](./Mockups.pdf)
