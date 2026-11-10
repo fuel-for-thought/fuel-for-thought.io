@@ -42,4 +42,10 @@ The application will also demonstrate several design concepts.
 - Role-based permissions that let visitors browse listings, signed-in students contribute, and administrators moderate posts.
 
 ## Mockup-Pages
-
+<iframe
+  src="./Mockups.pdf"
+  title="Fuel for Thought website mockups"
+  width="100%"
+  height="650"
+  style="border: 1px solid #ddd;">
+</iframe>
