@@ -1,34 +1,25 @@
-# Bowfolios
+# Fuel-For-Thought
 
 ## Table of contents
 
+* [Description](#description)
+* [Goals](#goals)
 * [Overview](#overview)
-* [Deployment](#deployment)
-* [User Guide](#user-guide)
-* [Community Feedback](#community-feedback)
-* [Developer Guide](#developer-guide)
-* [Development History](#development-history)
-* [Continuous Integration](#continuous-integration)
-* [Walkthrough videos](#walkthrough-videos)
-* [Example enhancements](#example-enhancements)
-* [Team](#team)
+* [Mockup-Pages](#mockup-pages)
+
+## Description
+The Fuel-For-Thought website helps college students at The University of Hawaii at Manoa find meals that fit their budget, dietary needs, fitness goals, and transportation options. Students can discover options from restaurants, grocery stores, and campus dining, then compare prices, nutrition information, and travel distance before deciding where to eat. Students who sign in with a UH email address can also share recommendations, rate meals, and save their favorite finds.
+
+## Goals
+- Make affordable meals easier to find. Let students search within their budget and compare prices across restaurants, grocery stores, and campus dining options.
+
+- Help students find meals that fit their dietary needs. Let students filter by preferences and restrictions, such as vegan options, and view calories and ingredients when available.
+
+- Show students which options they can reach. Use travel distance and available transportation options to surface practical choices for students who walk, take the bus, or drive.
+
+- Build a safe student-led interactive community. Give signed-in students a place to post meal recommendations, write reviews, and rate options so others can decide what’s worth trying.
 
 ## Overview
 
-BowFolios is an example web application that provides pages to view and (in some cases) modify profiles, projects, and interests. It illustrates various technologies useful to ICS software engineering students, including:
+## Mockup-Pages
 
-* [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
-* [React](https://reactjs.org/) for component-based UI implementation and routing.
-* [React Bootstrap](https://react-bootstrap.github.io/) CSS Framework for UI design.
-* [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
-
-It also provides code that implements a variety of useful design concepts, including:
-
-* Three primary collections (Profiles, Projects, Interests) as well as three "join" Collections (ProfilesInterests, ProfilesProjects, and ProjectsInterests) that implement many-to-many relationships between them.
-* Top-level index pages (Profiles, Interests, and Projects) that show how to manipulate these six collections in various ways.
-* Initialization code to define default Profiles, Interests, and Projects and relations between them.
-* A simple Filter page to illustrate how to perform simple queries on the database and display the results.
-* Use of Meteor Methods to illustrate how to simplify implementation of multiple collection updates.
-* Use of indexes to enforce uniqueness of certain fields in the collections, enabling them to serve as primary keys.
-* Authentication using the built-in Meteor accounts package along with Sign Up and Sign In pages.
-* Authorization examples: certain pages are public (
