@@ -6,6 +6,7 @@
 * [Goals](#goals)
 * [Overview](#overview)
 * [Mockup-Pages](#mockup-pages)
+* [Team-Contract](#team-contract)
 
 ## Description
 
@@ -50,3 +51,6 @@ The application will also demonstrate several design concepts.
 [Open the mockup PDF](./Mockups.pdf)
 
 The landing page introduces Fuel for Thought and gives students a place to get started, while the Goals page lets them save their weekly food budget, nutrition goals, dietary needs, and transportation options. The search page displays nearby restaurants, grocery stores, and campus dining options alongside a map so students can compare prices and distances. The Community Dashboard lets students share and rate food recommendations and filter posts for budget-friendly, high-protein, or low-calorie options.
+
+## Team Contract
+<a href="https://docs.google.com/document/d/e/2PACX-1vT1X-l-g6en61Bl6EDyLUo0cAefKqoeDVzzF8YXy68kyon3Q86qhM3s4A1r5FZ0BK-Ewbm1j6nWUIFG/pub" target="_blank" rel="noopener noreferrer">Open My Google Doc in New Tab</a>
