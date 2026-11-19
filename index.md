@@ -79,6 +79,12 @@ The My goals mockup lets students set a weekly budget, nutrition goals, dietary 
 
 The Place details mockup shows how students can compare sample prices and nutrition, check travel time from campus, and read a student review before choosing where to eat.
 
+### Sign in
+
+![Student sign-in form with an email field and a guest browsing link](./assets/mockups/sign-in.png)
+
+The Sign in mockup lets students try the sign-in flow with a sample email or return to the Community page as a guest. The demo does not create an account.
+
 ## Team Contract
 <a href="https://docs.google.com/document/d/e/2PACX-1vT1X-l-g6en61Bl6EDyLUo0cAefKqoeDVzzF8YXy68kyon3Q86qhM3s4A1r5FZ0BK-Ewbm1j6nWUIFG/pub" target="_blank" rel="noopener noreferrer">Click Me to Open Team Contract</a>
 
