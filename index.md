@@ -9,7 +9,7 @@
 * [Mockup-Pages](#mockup-pages)
 * [Team-Contract](#team-contract)
 * [Github-Organization](#github-organization)
-* [Milestones](*milestones)
+* [Milestones](#milestones)
 
 ## Description
 
@@ -96,5 +96,7 @@ The Sign in mockup lets students try the sign-in flow with a sample email or ret
 <a href="https://github.com/fuel-for-thought" target="_blank" rel="noopener noreferrer">Fuel-For-Thought Github Organization</a>
 
 ## Milestones 
+
+Link For M1 - <a href="https://github.com/orgs/fuel-for-thought/projects/1" target="_blank" rel="noopener noreferrer">Milestone 1</a>
 
 Link For M2 - <a href="https://github.com/orgs/fuel-for-thought/projects/4/views/1" target="_blank" rel="noopener noreferrer">Milestone 2</a>
