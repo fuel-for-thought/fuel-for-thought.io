@@ -3,14 +3,23 @@
 ## Table of contents
 
 * [Description](#description)
+* [Deployment](#deployment)
 * [Goals](#goals)
 * [Overview](#overview)
 * [Mockup-Pages](#mockup-pages)
 * [Team-Contract](#team-contract)
+* [Github-Organization](#github-organization)
+* [Milestones](*milestones)
 
 ## Description
 
 The Fuel-For-Thought website helps college students at The University of Hawaii at Manoa find meals that fit their budget, dietary needs, fitness goals, and transportation options. Students can discover options from restaurants, grocery stores, and campus dining, then compare prices, nutrition information, and travel distance before deciding where to eat. Students who sign in with a UH email address can also share recommendations, rate meals, and save their favorite finds.
+
+## Deployment
+
+<a href="https://fuel-for-thought.vercel.app/">Fuel-For-Thought Vercel</a>
+
+Link to the Fuel-For-Thought Vercel
 
 ## Goals
 
@@ -54,3 +63,10 @@ The landing page introduces Fuel for Thought and gives students a place to get s
 
 ## Team Contract
 <a href="https://docs.google.com/document/d/e/2PACX-1vT1X-l-g6en61Bl6EDyLUo0cAefKqoeDVzzF8YXy68kyon3Q86qhM3s4A1r5FZ0BK-Ewbm1j6nWUIFG/pub" target="_blank" rel="noopener noreferrer">Click Me to Open Team Contract</a>
+
+## Github-Organization
+<a href="https://github.com/fuel-for-thought" target="_blank" rel="noopener noreferrer">Fuel-For-Thought Github Organization</a>
+
+## Milestones 
+
+Link For M2 - <a href="https://github.com/orgs/fuel-for-thought/projects/4/views/1" target="_blank" rel="noopener noreferrer">Milestone 2</a>
