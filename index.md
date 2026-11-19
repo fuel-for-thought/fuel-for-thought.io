@@ -55,31 +55,35 @@ The application will also demonstrate several design concepts.
 
 ## Mockup-Pages
 
+### Early Designs and Drafts
+
 <iframe src="./Mockups.pdf" title="Fuel for Thought website mockups" width="100%" height="650"></iframe>
 
 [Open the mockup PDF](./Mockups.pdf)
 
 The landing page introduces Fuel for Thought and gives students a place to get started, while the Goals page lets them save their weekly food budget, nutrition goals, dietary needs, and transportation options. The search page displays nearby restaurants, grocery stores, and campus dining options alongside a map so students can compare prices and distances. The Community Dashboard lets students share and rate food recommendations and filter posts for budget-friendly, high-protein, or low-calorie options.
 
-### Community landing page
+### Application and Integration
+
+#### Community landing page
 
 ![Community feed with a search box, category filters, and student reviews](./assets/mockups/community.png)
 
 The Community mockup is the app’s landing page. Students can search sample food recommendations, filter by budget or dietary tags, and see the week’s most helpful posts.
 
-### My goals
+#### My goals
 
 ![Budget and preference form beside the Your plan summary](./assets/mockups/my-goals.png)
 
 The My goals mockup lets students set a weekly budget, nutrition goals, dietary needs, and travel preferences. The plan panel shows the estimated cost per meal as they make changes.
 
-### Mānoa Poke Stop — Place details
+#### Mānoa Poke Stop — Place details
 
 ![Mānoa Poke Stop menu, travel details, student review, and illustrated map](./assets/mockups/place-details.png)
 
 The Place details mockup shows how students can compare sample prices and nutrition, check travel time from campus, and read a student review before choosing where to eat.
 
-### Sign in
+#### Sign in
 
 ![Student sign-in form with an email field and a guest browsing link](./assets/mockups/sign-in.png)
 
