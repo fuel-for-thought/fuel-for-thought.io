@@ -65,11 +65,11 @@ The landing page introduces Fuel for Thought and gives students a place to get s
 
 ### Application and Integration
 
-#### Community landing page
+#### Community
 
 ![Community feed with a search box, category filters, and student reviews](./assets/mockups/community.png)
 
-The Community mockup is the app’s landing page. Students can search sample food recommendations, filter by budget or dietary tags, and see the week’s most helpful posts.
+The Community page lets students search sample food recommendations, filter by budget or dietary tags, and see the week’s most helpful posts.
 
 #### My goals
 
@@ -77,7 +77,7 @@ The Community mockup is the app’s landing page. Students can search sample foo
 
 The My goals mockup lets students set a weekly budget, nutrition goals, dietary needs, and travel preferences. The plan panel shows the estimated cost per meal as they make changes.
 
-#### Mānoa Poke Stop — Place details
+#### Mānoa Poke Stop: Place details
 
 ![Mānoa Poke Stop menu, travel details, student review, and illustrated map](./assets/mockups/place-details.png)
 
@@ -87,7 +87,7 @@ The Place details mockup shows how students can compare sample prices and nutrit
 
 ![Student sign-in form with an email field and a guest browsing link](./assets/mockups/sign-in.png)
 
-The Sign in mockup lets students try the sign-in flow with a sample email or return to the Community page as a guest. The demo does not create an account.
+The Sign in page is where students sign in with their UH email. Anyone can also browse the Community page as a guest.
 
 ## Team Contract
 <a href="https://docs.google.com/document/d/e/2PACX-1vT1X-l-g6en61Bl6EDyLUo0cAefKqoeDVzzF8YXy68kyon3Q86qhM3s4A1r5FZ0BK-Ewbm1j6nWUIFG/pub" target="_blank" rel="noopener noreferrer">Click Me to Open Team Contract</a>
